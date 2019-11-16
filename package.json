@@ -1,0 +1,10 @@
+{
+  "name": "ssb-minimal-pub-server-balena",
+  "version": "0.1.0",
+  "dependencies": {
+    "ssb-minimal-pub-server": "^15.1.0"
+  },
+  "scripts": {
+    "start": "ssb-server start"
+  }
+}
